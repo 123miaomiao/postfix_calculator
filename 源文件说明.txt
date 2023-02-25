@@ -1,0 +1,3 @@
+Calculator类主要实现了中缀到后缀和后缀的计算
+InversePolishCalculator主要是求值器的GUI页面
+文件夹calc里是一些已经定义好的运算符的类，想要增加其他的运算符可以将该运算符的类加入该文件夹里
